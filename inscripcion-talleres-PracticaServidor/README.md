@@ -7,8 +7,7 @@ formulario que valido en el servidor.
 
 Chats usados como apoyo:
 
-- https://claude.ai/share/0d390d19-380b-4099-afdb-267fadf06129 (práctica original)
-- (pendiente de pegar aquí el enlace del chat de la recuperación)
+- https://claude.ai/share/0d390d19-380b-4099-afdb-267fadf06129
 
 ## Cómo arrancarlo
 
