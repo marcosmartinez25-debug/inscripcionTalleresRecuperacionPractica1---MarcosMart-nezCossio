@@ -1,15 +1,5 @@
 # Sistema de inscripción a talleres y actividades
 
-Práctica de Desarrollo Web en Entorno Servidor (2º DAW). Es una aplicación hecha
-con Express 5 y EJS para unas jornadas tecnológicas: se pueden ver los talleres
-que hay, filtrarlos, entrar en la ficha de cada uno y apuntarse rellenando un
-formulario que valido en el servidor.
-
-Chats usados como apoyo:
-
-- Práctica original: https://claude.ai/share/0d390d19-380b-4099-afdb-267fadf06129
-- Recuperación: PEGAR AQUÍ EL ENLACE DEL CHAT DE LA RECUPERACIÓN
-
 ## Cómo arrancarlo
 
 ```bash
