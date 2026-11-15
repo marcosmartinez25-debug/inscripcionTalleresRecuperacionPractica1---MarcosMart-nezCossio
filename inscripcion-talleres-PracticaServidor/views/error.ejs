@@ -1,0 +1,15 @@
+<%- include('partials/cabecera', { tituloPagina: mensaje }) %>
+
+  <header class="cabecera">
+    <p class="migas"><a href="/talleres">&larr; Volver al listado</a></p>
+    <h1><%= mensaje %></h1>
+  </header>
+
+  <main>
+    <article class="ficha">
+      <p class="aviso"><%= detalle %></p>
+      <p><a class="boton" href="/talleres">Ir al listado de talleres</a></p>
+    </article>
+  </main>
+
+<%- include('partials/pie') %>
